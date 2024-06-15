@@ -6,6 +6,7 @@ i'm trying to hack Open Models and adding them to the mix with this forked repo
 ![Integrated HuggingFace Models Downloader](https://github.com/LebToki/chatwire/assets/957618/6134a89d-40e4-417e-8e4e-49c95a0c7986)
 ![Open Models Chat Interface](https://github.com/LebToki/chatwire/assets/957618/e202225a-1ec0-433a-80f6-14b4921ab0d9)
 ![Mode Switcher was added for asthetics](https://github.com/LebToki/chatwire/assets/957618/ddc81942-63f9-4267-b509-6e7ede18e8a9)
+![Log Viewer was added for extra Debugging](https://github.com/LebToki/chatwire/assets/957618/2e62b5f1-4fd5-41ee-aea0-3fc3b2bc60cb)
 
 
 # Chatwire
