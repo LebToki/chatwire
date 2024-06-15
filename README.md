@@ -7,6 +7,7 @@ i'm trying to hack Open Models and adding them to the mix with this forked repo
 ![Open Models Chat Interface](https://github.com/LebToki/chatwire/assets/957618/e202225a-1ec0-433a-80f6-14b4921ab0d9)
 ![Mode Switcher was added for asthetics](https://github.com/LebToki/chatwire/assets/957618/ddc81942-63f9-4267-b509-6e7ede18e8a9)
 ![Log Viewer was added for extra Debugging](https://github.com/LebToki/chatwire/assets/957618/2e62b5f1-4fd5-41ee-aea0-3fc3b2bc60cb)
+![closer to the end just troubled a bit with the Open models](https://github.com/LebToki/chatwire/assets/957618/974e93da-d238-4ab0-a490-373b0fec26e3)
 
 
 # Chatwire
