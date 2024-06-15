@@ -1,6 +1,8 @@
 Kudos to [@theokafadaris](https://github.com/theokafadaris) on this clean implimentation
 i'm trying to hack Open Models and adding them to the mix with this forked repo
 
+![image](https://github.com/LebToki/chatwire/assets/957618/267beb43-f4c0-4324-8e91-03d738bf49f3)
+
 # Chatwire
 
 Chatwire is a clone of ChatGPT made with Laravel Breeze using Livewire and the OpenAI PHP client (Chat and Audio Resource). It also supports a command interface for asking questions to ChatGPT using Laravel Prompts.
