@@ -1,4 +1,4 @@
-Kudos to @theokafadaris on this clean installation
+Kudos to [@theokafadaris](https://github.com/theokafadaris) on this clean implimentation
 i'm trying to hack Open Models and adding them to the mix with this forked repo
 
 # Chatwire
