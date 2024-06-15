@@ -9,6 +9,7 @@ i'm trying to hack Open Models and adding them to the mix with this forked repo
 ![Log Viewer was added for extra Debugging](https://github.com/LebToki/chatwire/assets/957618/2e62b5f1-4fd5-41ee-aea0-3fc3b2bc60cb)
 ![closer to the end just troubled a bit with the Open models](https://github.com/LebToki/chatwire/assets/957618/974e93da-d238-4ab0-a490-373b0fec26e3)
 
+Boy I can't Stress How much I hate Laravel ! Such a Powerful Framework but sometimes it is just $%^&*(
 
 # Chatwire
 
